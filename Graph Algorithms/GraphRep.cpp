@@ -1,6 +1,7 @@
 //graph by Adjacency list using STL Vectors
-
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
+//#include <bits/stdc++.h>
 using namespace std;
 
 void addEdge(vector<int> adj[], int u, int v)
